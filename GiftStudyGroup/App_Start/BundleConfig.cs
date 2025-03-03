@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace GiftStudyGroup
+namespace GiftsStudyGroup
 {
     public class BundleConfig
     {
